@@ -1,1 +1,7 @@
 node_modules/
+
+# JS ref-impl build artefacts
+ref-impl/js/dist/
+# local scratch samples
+ref-impl/js/sample*.grml
+ref-impl/js/tsconfig.tmp
